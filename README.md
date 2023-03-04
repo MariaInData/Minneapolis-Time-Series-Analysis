@@ -1,4 +1,4 @@
-# Minneapolis-Time-Series-Analysis
+# Minneapolis Time Series Analysis
 
 # Project Goal
 The purpose of this analysis is to better understand the data and to predict future crime rates.
