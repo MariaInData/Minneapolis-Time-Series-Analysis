@@ -1,4 +1,5 @@
 # Minneapolis Time Series Analysis
+<img width="576" alt="image" src="https://user-images.githubusercontent.com/125685678/222930438-f15a878c-362f-4495-829f-02beaba66cf5.png">
 
 # Project Goal
 The purpose of this analysis is to better understand the data and to predict future crime rates.
