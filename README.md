@@ -1,6 +1,5 @@
 # Minneapolis Time Series Analysis
- <p align="center"><img width="576" alt="image" src="https://user-images.githubusercontent.com/125685678/222930438-f15a878c-362f-4495-829f-02beaba66cf5.png">   </p> 
-
+<p align="center"> <img width="891" alt="image" src="https://user-images.githubusercontent.com/125685678/222880592-7f00d12e-4b3f-4e06-a648-1df675e244d3.png"> </p> 
 
 # Project Goal
 The purpose of this analysis is to better understand the data and to predict future crime rates.
@@ -34,4 +33,7 @@ Link to data: https://opendata.minneapolismn.gov/search?groupIds=79606f50581f4a3
  <p align="center">Above is the ACF grpah   </p> 
 
  <p align="center"><img width="705" alt="image" src="https://user-images.githubusercontent.com/125685678/222880711-33026a4c-620a-4883-b1d1-5910e9862b6d.png">   </p> 
- <p align="center">Above is the PACF graph   </p> 
+ <p align="center">Above is the PACF graph   </p>   
+ 4. Time Series Analysis in R  
+ - I wanted to see the difference between R and Python using ARIMA modeling. I'm currently still working on this process. I will be updating as the process continues.
+<p align="center"><img width="576" alt="image" src="https://user-images.githubusercontent.com/125685678/222930438-f15a878c-362f-4495-829f-02beaba66cf5.png">   </p> 
