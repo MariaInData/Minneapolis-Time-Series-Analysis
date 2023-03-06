@@ -20,13 +20,13 @@ Link to data: https://opendata.minneapolismn.gov/search?groupIds=79606f50581f4a3
 - Noticed that by choosing 'Occurance Date' instead of 'Report Date', I got outliers. For example, some crim occurances happened in 1992. To focus on more relevant dates, I plotted the last 10 years of crime. I noticed that before 2018 there was very little crime, which made me believe that the data was only accurately reporting since late 2018. For ease of analysis, I choose the last 4 years (3.2.2019-3.2.2023).
 - I aggregated crime based on date.
 
-<img width="891" alt="image" src="https://user-images.githubusercontent.com/125685678/222880592-7f00d12e-4b3f-4e06-a648-1df675e244d3.png">
+ <p align="center"> <img width="891" alt="image" src="https://user-images.githubusercontent.com/125685678/222880592-7f00d12e-4b3f-4e06-a648-1df675e244d3.png"> </p> 
 
 3. Time Series Analysis
 - First, I viusalized the data
-<img width="891" alt="image" src="https://user-images.githubusercontent.com/125685678/222880592-7f00d12e-4b3f-4e06-a648-1df675e244d3.png">
+<img width="891" alt="image" src="https://user-images.githubusercontent.com/125685678/222880592-7f00d12e-4b3f-4e06-a648-1df675e244d3.png"> </p> 
 - Next, I used ADF to check for stationarity
-<img width="473" alt="image" src="https://user-images.githubusercontent.com/125685678/222880653-f33c8613-e38f-491d-bd35-9650108e7e7c.png">
+ <p align="center"><img width="473" alt="image" src="https://user-images.githubusercontent.com/125685678/222880653-f33c8613-e38f-491d-bd35-9650108e7e7c.png">
 - With a p-value of < 0.05, I can reject the null hypothesis in favor of the alternative hypothsis. Thus, the time series is stationary.
 -Now, I plotted both ACF and PACF to check if the time series was purely AR or purely MA model.
  <p align="center"><img width="702" alt="image" src="https://user-images.githubusercontent.com/125685678/222880700-12693f24-93fd-42f2-9d33-c76966142ff5.png">   </p> 
