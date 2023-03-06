@@ -29,8 +29,8 @@ Link to data: https://opendata.minneapolismn.gov/search?groupIds=79606f50581f4a3
 <img width="473" alt="image" src="https://user-images.githubusercontent.com/125685678/222880653-f33c8613-e38f-491d-bd35-9650108e7e7c.png">
 - With a p-value of < 0.05, I can reject the null hypothesis in favor of the alternative hypothsis. Thus, the time series is stationary.
 -Now, I plotted both ACF and PACF to check if the time series was purely AR or purely MA model.
-<img width="702" alt="image" src="https://user-images.githubusercontent.com/125685678/222880700-12693f24-93fd-42f2-9d33-c76966142ff5.png">
-Above is the ACF grpah
+ <p align="center"><img width="702" alt="image" src="https://user-images.githubusercontent.com/125685678/222880700-12693f24-93fd-42f2-9d33-c76966142ff5.png">   </p> 
+ <p align="center">Above is the ACF grpah   </p> 
 
-<img width="705" alt="image" src="https://user-images.githubusercontent.com/125685678/222880711-33026a4c-620a-4883-b1d1-5910e9862b6d.png">
-Above is the PACF graph
+ <p align="center"><img width="705" alt="image" src="https://user-images.githubusercontent.com/125685678/222880711-33026a4c-620a-4883-b1d1-5910e9862b6d.png">   </p> 
+ <p align="center">Above is the PACF graph   </p> 
