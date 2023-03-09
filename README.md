@@ -35,5 +35,5 @@ Link to data: https://opendata.minneapolismn.gov/search?groupIds=79606f50581f4a3
  <p align="center"><img width="705" alt="image" src="https://user-images.githubusercontent.com/125685678/222880711-33026a4c-620a-4883-b1d1-5910e9862b6d.png">   </p> 
  <p align="center">Above is the PACF graph   </p>   
  4. Time Series Analysis in R  
- - I wanted to see the difference between R and Python using ARIMA modeling. I'm currently still working on this process. I will be updating as the process continues.
+ - I wanted to see the difference between R and Python using ARIMA modeling.
 <p align="center"><img width="576" alt="image" src="https://user-images.githubusercontent.com/125685678/222930438-f15a878c-362f-4495-829f-02beaba66cf5.png">   </p> 
