@@ -24,7 +24,7 @@ Link to data: https://opendata.minneapolismn.gov/search?groupIds=79606f50581f4a3
 3. Time Series Analysis
 - First, I viusalized the data
  <p align="center"> <img width="891" alt="image" src="https://user-images.githubusercontent.com/125685678/222880592-7f00d12e-4b3f-4e06-a648-1df675e244d3.png"> </p>   
-- Next, I used ADF to check for stationarity  
+- Next, I used ADF to check for stationarity.  
 
 <p align="center"><img width="473" alt="image" src="https://user-images.githubusercontent.com/125685678/222880653-f33c8613-e38f-491d-bd35-9650108e7e7c.png">   </p>  
 - With a p-value of < 0.05, I can reject the null hypothesis in favor of the alternative hypothsis. Thus, the time series is stationary.
